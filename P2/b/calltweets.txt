@@ -1,0 +1,74 @@
+CALL #id_rsmandao_77 #P2CSC555F15
+CALL #id_rsmandao_33 #P2CSC555F15
+CALL #id_adtelhar_96 #P2CSC555F15
+CALL #id_mdeshpa_92 #P2CSC555F15
+CALL #id_sshekha3_1 #P2CSC555F15
+CALL #id_rsmandao_33 #P2CSC555F15
+CALL #id_rsmandao_44 #P2CSC555F15
+CALL #id_rsmandao_45 #P2CSC555F15
+CALL #id_knimgao_1 #P2CSC555F15
+CALL #id_mdeshpa_101 #P2CSC555F15
+CALL #id_aamillik_3 #P2CSC555F15
+CALL #id_apreman_1 #P2CSC555F15
+CALL #id_mdeshpa_102 #P2CSC555F15
+CALL #id_pkayal_1 #P2CSC555F15
+CALL #id_snnayak_82 #P2CSC555F15
+CALL #id_apreman_2 #P2CSC555F15
+CALL #id_pkayal_1 #P2CSC555F15
+CALL #id_pkayal_1 #P2CSC555F15
+CALL #id_rsmandao_15 #P2CSC555F15
+CALL #id_nkudige_55 #P2CSC555F15
+CALL #id_rsjogaik_8 #P2CSC555F15
+CALL #id_rsmandao_21 #P2CSC555F15
+CALL #id_sshekha3_1 #P2CSC555F15
+CALL #id_rsmandao_22 #P2CSC555F15
+CALL #id_pkayal_1 #P2CSC555F15
+CALL #id_rsmandao_24 #P2CSC555F15
+CALL #id_pkayal_1 #P2CSC555F15
+CALL #id_rsmandao_121 #P2CSC555F15
+CALL #id_nkudige_56 #P2CSC555F15
+CALL #id_pkayal_1 #P2CSC555F15
+@jeanluc_picard7 
+Call from: Anakin
+URGENCY: 1
+#id_nkudige_56 #P2CSC555F15
+CALL #id_rsjogaik_102 #P2CSC555F15
+@RSJogaikar
+Call from: Paridhika
+URGENCY: 0
+#id_rsjogaik_102 #P2CSC555F15
+CALL #id_krege_98 #P2CSC555F15
+@komal_91
+Call from: Paridhika
+URGENCY: 0
+#id_krege_98 #P2CSC555F15
+@RSJogaikar 
+Call from: Anakin
+URGENCY: 0
+#id_rsjogaik_102 #P2CSC555F15
+CALL #id_rsjogaik_202 #P2CSC555F15
+CALL #id_ssreeni_3 #P2CSC555F15
+CALL #id_ssreeni_4 #P2CSC555F15
+CALL #id_snnayak_88 #P2CSC555F15
+CALL #id_rsjogaik_302 #P2CSC555F15
+CALL #id_nkudige_58 #P2CSC555F15
+CALL #id_ssreeni_6 #P2CSC555F15
+CALL #id_sshekha3_1 #P2CSC555F15
+CALL #id_yjmehta_12#P2CSC555F15
+CALL #id_ssreeni_9 #P2CSC555F15
+CALL #id_pkayal_1 #P2CSC555F15
+CALL #id_yjmehta_13 #P2CSC555F15
+CALL #id_rsmandao_100 #P2CSC555F15
+CALL #id_sshekha3_1 #P2CSC555F15
+CALL #id_snnayak_93 #P2CSC555F15
+CALL #id_rsjogaik_3 #P2CSC555F15
+CALL #id_rsmandao_110 #P2CSC555F15
+CALL #id_sshekha3_1 #P2CSC555F15
+CALL #id_rsjogaik_22 #P2CSC555F15
+CALL #id_snnayak_98 #P2CSC555F15
+CALL #id_rsjogaik_102 #P2CSC555F15
+CALL #id_rsjogaik_102 #P2CSC555F15
+CALL #id_ssharm14_1 #P2CSC555F15
+CALL #id_yjmehta_15 #P2CSC555F15
+CALL #id_rsjogaik_4 #P2CSC555F15
+CALL #id_ssharm14_1 #P2CSC555F15
