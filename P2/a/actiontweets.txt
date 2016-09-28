@@ -1,0 +1,30 @@
+ACTION : NO #id_rsmandao_121 #P2CSC555F15
+ACTION : YES #id_rsmandao_122 #P2CSC555F15
+ACTION : YES #id_rsmandao_123 #P2CSC555F15
+ACTION: Yes #id_rsjogaik_9 #P2CSC555F15
+ACTION: NO #id_pkayal_1 #P2CSC555F15
+ACTION: No #vstendul_5 #P2CSC555F15.
+ACTION: Yes #vstendul_5 #P2CSC555F15.
+ACTION: Yes #id_krege_98 #P2CSC555F15
+ACTION: YES #id_snnayak_88 #P2CSC555F15
+ACTION: No #id_sshekha3_1 #P2CSC555F15.
+ACTION: No #id_sshekha3_1 #P2CSC555F15.
+ACTION: Yes #id_yjmehta_12 #P2CSC555F15
+ACTION: NO #id_pkayal_1 #P2CSC555F15
+ACTION : NO #id_rsmandao_100 #P2CSC555F15
+ACTION: Yes #id_yjmehta_13 #P2CSC555F15
+ACTION: YES #id_snnayak_93 #P2CSC555F15
+ACTION : YES #id_rsmandao_110 #P2CSC555F15
+ACTION: Yes #id_rsjogaik_4 #P2CSC555F15
+ACTION: Yes #id_rsjogaik_5 #P2CSC555F15
+ACTION: Yes #id_sshekha3_1 #P2CSC555F15.
+ACTION: Yes #id_rsjogaik_6 #P2CSC555F15
+ACTION: No #id_rsjogaik_7 #P2CSC555F15
+ACTION: Yes #id_rsjogaik_8 #P2CSC555F15
+ACTION: Yes #id_rsjogaik_9 #P2CSC555F15
+ACTION : YES #id_rsmandao_111 #P2CSC555F15
+ACTION: YES #id_snnayak_98 #P2CSC555F15
+ACTION: Yes #id_rsjogaik_23 #P2CSC555F15
+ACTION: Yes #id_sshekha3_1 #P2CSC555F15.
+ACTION: Yes #id_yjmehta_15 #P2CSC555F15
+ACTION: Yes #id_yjmehta_15 #P2CSC555F15
